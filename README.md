@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi there! I'm Ihor Bondarenko 👋<br>I specialize in JavaScript and TypeScript development. In my role at a hosting company, I maintain and update the functionality and interface of the website and user dashboard, using technologies such as React and Next.js. On freelance projects, I often create landing pages and am currently planning the development of a mobile application.
+Hi! I'm Ihor Bondarenko 👋  
+Frontend Developer with a product mindset, building modern web and mobile applications.
+
+My core stack includes React, React Native, Next.js, and TypeScript, with a focus on clean architecture and long-term maintainability.  
+Recently, I’ve been working end-to-end on product features, including backend design using Nest.js and PostgreSQL.
+
+Open to remote product opportunities.
 
 
 ## 🌐 Socials:
