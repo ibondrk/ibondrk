@@ -1,11 +1,11 @@
 # 💫 About Me:
-Hi! I'm Ihor Bondarenko 👋  
-Frontend Developer with a product mindset, building modern web and mobile applications.
+Hi! I'm Ihor Bondarenko 👋
+Full-Stack Developer focused on building SaaS products from the ground up.
 
-My core stack includes React, React Native, Next.js, and TypeScript, with a focus on clean architecture and long-term maintainability.  
-Recently, I’ve been working end-to-end on product features, including backend design using Nest.js and PostgreSQL.
+My core stack: React, Next.js, TypeScript, NestJS, PostgreSQL, Tailwind CSS.
+Also building mobile apps with React Native.
 
-Open to remote product opportunities.
+Open to remote opportunities.
 
 
 ## 🌐 Socials:
